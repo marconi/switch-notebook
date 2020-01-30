@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle switch-notebook",
+        "command": "switch-notebook:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "switch-notebook",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "switch-notebook:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

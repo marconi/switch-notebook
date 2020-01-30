@@ -1,0 +1,5 @@
+{
+  "body": {
+    "cmd-p": "switch-notebook:toggle"
+  }
+}
