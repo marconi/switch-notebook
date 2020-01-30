@@ -1,7 +1,7 @@
 {
   "name": "switch-notebook",
   "main": "./lib/switch-notebook",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Quickly switch between notebooks",
   "keywords": [],
   "repository": "https://github.com/marconi/switch-notebook",
