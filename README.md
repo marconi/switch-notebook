@@ -2,6 +2,8 @@
 
 Quickly switch between Inkdrop notebooks.
 
+![Screenshot](https://github.marconijr.com/switch-notebook/screenshot.png)
+
 ### Install
 
 ```
