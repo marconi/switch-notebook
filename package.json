@@ -4,7 +4,10 @@
   "version": "0.1.1",
   "description": "Quickly switch between notebooks",
   "keywords": [],
-  "repository": "https://github.com/marconi/switch-notebook",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:marconi/switch-notebook.git"
+  },
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
