@@ -20,5 +20,6 @@ By enabling "Switch notebook with return key" in the plugin settings, you can sw
 
 ### Changelog
 
-- 0.1.1 - Add "Switch notebook with return key" option.
+- 0.2.0 - Updated to support Inkdrop `5.x`
+- 0.1.1 - Add "Switch notebook with return key" option
 - 0.1.0 - First release
