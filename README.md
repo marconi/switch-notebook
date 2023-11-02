@@ -2,7 +2,7 @@
 
 Quickly switch between Inkdrop notebooks.
 
-![switch-notebook](https://github.com/marconi/switch-notebook/assets/49830/4c504f32-95ea-450e-8ca4-225686c7bd51)
+![switch-notebook](https://user-images.githubusercontent.com/49830/277161558-4c504f32-95ea-450e-8ca4-225686c7bd51.png)
 
 
 ### Install
@@ -21,6 +21,7 @@ By enabling "Switch notebook with return key" in the plugin settings, you can sw
 
 ### Changelog
 
+- 0.2.2 - Updated `README.md` screenshot
 - 0.2.1 - Swtch to using `React.createRef`
 - 0.2.0 - Updated to support Inkdrop `5.x`
 - 0.1.1 - Add "Switch notebook with return key" option
