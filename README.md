@@ -21,6 +21,7 @@ By enabling "Switch notebook with return key" in the plugin settings, you can sw
 
 ### Changelog
 
+- 0.2.3 - Fixed loading of notebooks(see [issue#11](https://github.com/marconi/switch-notebook/pull/12))
 - 0.2.2 - Updated `README.md` screenshot
 - 0.2.1 - Swtch to using `React.createRef`
 - 0.2.0 - Updated to support Inkdrop `5.x`
